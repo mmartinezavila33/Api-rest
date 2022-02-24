@@ -3,3 +3,5 @@
 Autores
 <br>
 Maira Alejandra Martinez Avila
+<br>
+Mauricio José Valeta Guzmán
