@@ -7,3 +7,5 @@ Maira Alejandra Martinez Avila
 Mauricio José Valeta Guzmán
 <br>
 Cristian Camilo Tarras Marquez 
+<br>
+Joel David Salcedo Ojeda
