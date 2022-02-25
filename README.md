@@ -5,3 +5,5 @@ Autores
 Maira Alejandra Martinez Avila
 <br>
 Mauricio José Valeta Guzmán
+<br>
+Cristian Tarras Marquez 
